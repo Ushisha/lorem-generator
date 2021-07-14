@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/lorem-generator/static/css/main.f84c5c5d.chunk.css",
+    "main.js": "/lorem-generator/static/js/main.843ee7d7.chunk.js",
+    "main.js.map": "/lorem-generator/static/js/main.843ee7d7.chunk.js.map",
+    "runtime-main.js": "/lorem-generator/static/js/runtime-main.747f8dbe.js",
+    "runtime-main.js.map": "/lorem-generator/static/js/runtime-main.747f8dbe.js.map",
+    "static/js/2.4a17f552.chunk.js": "/lorem-generator/static/js/2.4a17f552.chunk.js",
+    "static/js/2.4a17f552.chunk.js.map": "/lorem-generator/static/js/2.4a17f552.chunk.js.map",
+    "index.html": "/lorem-generator/index.html",
+    "static/css/main.f84c5c5d.chunk.css.map": "/lorem-generator/static/css/main.f84c5c5d.chunk.css.map",
+    "static/js/2.4a17f552.chunk.js.LICENSE.txt": "/lorem-generator/static/js/2.4a17f552.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.747f8dbe.js",
+    "static/js/2.4a17f552.chunk.js",
+    "static/css/main.f84c5c5d.chunk.css",
+    "static/js/main.843ee7d7.chunk.js"
+  ]
+}
