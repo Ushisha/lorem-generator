@@ -6,7 +6,7 @@
 
 ## Links
 
-- Live Site URL: [live site URL](https://ushisha.github.io/llorem-generator/)
+- Live Site URL: [live site URL](https://ushisha.github.io/lorem-generator/)
 
 ## My process
 
