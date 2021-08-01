@@ -6,7 +6,7 @@
 
 ## Links
 
-- Live Site URL: [live site URL](https://ushisha.github.io/lorem-generator/)
+- Live Site URL: [https://ushisha.github.io/lorem-generator/](https://ushisha.github.io/lorem-generator/)
 
 ### Built with
 
