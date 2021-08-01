@@ -8,9 +8,7 @@
 
 - Live Site URL: [live site URL](https://ushisha.github.io/lorem-generator/)
 
-## My process
-
 ### Built with
 
-- React
+- [React](https://reactjs.org/) - JS library
 
